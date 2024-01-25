@@ -11,9 +11,6 @@ plugins {
     id 'checkstyle'
 }
 
-javafx {
-    version = "21.0.2"
-}
 
 repositories {
     // Use Maven Central for resolving dependencies.
